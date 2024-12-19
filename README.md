@@ -5,8 +5,21 @@ La terminal y línea de comandos es una herramienta esencial para todo desarroll
 ## ¿Que es una terminal?
 Interfaz grafica que nos muestra el prompt que podemos introducir lineas de comando
 
-## ¿Que es una linea de comandos?
+### ¿Que es una linea de comandos?
 (Shell) programa que interpreta comandos del usuario y los ejecuta en el sistema operativo
 
 ![alt text](image-1.png)
+
 Esta `terminal` solo lo que arroja es la `shell` 
+
+### Algunos tipos de Shells
+* Bourne Shell
+* Bash Shell (mas comunes)
+* Z Shell (mas comunes)
+* C Shell
+* Korn Shell
+* Fish Shell
+* PowerShell (de Microsoft)
+
+### ¿Que es un comando?
+Un programa que se puede ejecutar desde la terminal. Esta puede recibir parametros y opciones
